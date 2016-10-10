@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "581573253836",
+    "firebase_url": "https://hondapot-67fef.firebaseio.com",
+    "project_id": "hondapot-67fef",
+    "storage_bucket": "hondapot-67fef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581573253836:android:c3c77fa4998b0170",
+        "android_client_info": {
+          "package_name": "com.pot.honda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581573253836-78njoh41hj9c988l8i3f038vt6hdmq2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTPqeOctDGL_XQj4WJWlP4K8wfi-niXXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
